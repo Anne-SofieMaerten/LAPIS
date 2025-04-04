@@ -17,12 +17,13 @@ You can request access to the dataset [here]()
 
 ## 📖 Cite Us
 If you use our data, you can cite our work with the following citation:
+
 ```bibtex
 @Inproceedings{Maerten2025LAPIS,
-  title = {LAPIS: a novel dataset for personalized image aesthetic assessment},
-  author = {Anne-Sofie Maerten and Li-Wei Chen and Stefanie De Winter and Christophe Bossens and Johan Wagemans},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), workshops},
-  year = {2025},
+  title     = {LAPIS: a novel dataset for personalized image aesthetic assessment},
+  author    = {Anne-Sofie Maerten and Li-Wei Chen and Stefanie De Winter and Christophe Bossens and Johan Wagemans},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  year      = {2025},
 }
 ```
 
