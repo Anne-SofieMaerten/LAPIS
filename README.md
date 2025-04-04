@@ -11,7 +11,9 @@ Accepted at [CVEU](https://cveu.github.io/), a workshop of CVPR 2025.
 2. LAPIS contains **rich** image and personal attributes to improve (understanding of) predictions
 4. LAPIS establishes a new standard for **data-quality** in the field, as it was meticulously curated in collaboration with art historians
 
-![image example with all its attributes](img_labels.png)
+<p align="center">
+  <img src="img_labels.png" width="550" alt="image example with all its attributes">
+</p>
 
 Visualisation of the types of data in LAPIS. All images have metadata (title, artist) and image attributes. Images are rated by multiple users on their aesthetic appeal. For each user, we have a set of personal attributes
 
