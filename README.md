@@ -1,7 +1,10 @@
 ![Set of example images in LAPIS](set_imgs.jpg)
 # The Leuven Art Personalized Image Set (LAPIS)
 Dataset from "LAPIS: a novel dataset for personalized image aesthetic assessment".
+
 Accepted at [CVEU](https://cveu.github.io/), a workshop of CVPR 2025.
+
+
 
 ## Why LAPIS?
 1. LAPIS is the **first** dataset with art images that is suitable for personalized image aesthetic assessment(PIAA)
