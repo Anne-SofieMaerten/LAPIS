@@ -18,7 +18,7 @@ Accepted at [CVEU](https://cveu.github.io/), a workshop of CVPR 2025.
 Visualisation of the types of data in LAPIS. All images have metadata (title, artist) and image attributes. Images are rated by multiple users on their aesthetic appeal. For each user, we have a set of personal attributes
 
 ## Want to download LAPIS?
-You can request access to the dataset [here]()
+You can request access to the dataset [here.](https://sites.google.com/view/lapisdataset)
 
 ## 📖 Cite Us
 If you use our data, you can cite our work with the following citation:
